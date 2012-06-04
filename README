@@ -3,4 +3,6 @@ a COBOL CopyBook converter written in Java
 OSGI and Maven ready.
 
 Author: Artem V. Andreenko <miolini@gmail.com>
+Suuport: JCopybook Support <jcb_support@freedomoss.com>
+
 Fork from: http://cb2xml.sourceforge.net/
